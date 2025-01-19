@@ -55,11 +55,11 @@ export default function Projects(){
          <div className="flex flex-col items-center">
            <h1 className='text-5xl font-hero-font border-b-2 text-yellow-500 border-yellow-500 mb-4 w-[200px] font-bold'>Projects</h1>
            <p className="text-white mb-5 font-hero2-font">These are some of my projects.I have built these with the modern technologies.. CHECK them out!!!</p>
-           <div className="flex flex-col flex-wrap justify-center items-center md:flex-row text-center font-hero2-font gap-4 md:px-10">
+           <div className="flex flex-col flex-wrap justify-center items-center md:flex-row text-center font-hero2-font gap-4 md:px-10 px-0">
                 {config.projects.map((project)=>(
-                   <div className='block bg-lime-950 rounded border-2 md:w-[500px] md:h-[450px] ' >
+                   <div className='block bg-lime-950 rounded border-2 md:w-[500px] md:h-[450px] w-[200px] h-[200px]' >
                     <div className='relative group'>
-                       <img className=' h-[250px] w-full' src={project.image}></img>
+                       <img className=' h-[250px] w-full w-full h-[200px]' src={project.image}></img>
                        
                     </div>
                    

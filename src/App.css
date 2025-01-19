@@ -60,3 +60,6 @@ header ul li:hover{
 .aboutimg img{
   height: 400px;
 }
+.social-link{
+  @apply hover:text-black
+}

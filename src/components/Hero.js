@@ -26,9 +26,9 @@ export default function Hero(){
               <span><Cursor/></span></p>
            </h1> 
            <div className='flex py-10'>
-             <a href={config.social.linkein} className='pr-5 hover:text-white'><FaLinkedin size={30} className='text-yellow-500'/></a>
-             <a href={config.social.github} className='pr-5 hover:text-white'><FaGithub size={30} className='text-yellow-500'/></a>
-             <a href="mailto:{config.social.mail}" className='pr-5 hover:text-white'><IoMdMail size={30} className='text-yellow-500'/></a>
+             <a href={config.social.linkein} className='pr-5 '><FaLinkedin size={30} className='text-yellow-500 hover:text-black'/></a>
+             <a href={config.social.github} className='pr-5 '><FaGithub size={30} className='text-yellow-500 hover:text-black'/></a>
+             <a href="mailto:{config.social.mail}" className='pr-5 '><IoMdMail size={30} className='text-yellow-500 hover:text-black'/></a>
            </div>          
         </div>
         <div className='md:w-1/3 block hero-img'>
