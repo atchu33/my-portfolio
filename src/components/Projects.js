@@ -59,8 +59,7 @@ export default function Projects(){
                 {config.projects.map((project)=>(
                    <div className='block bg-lime-950 rounded border-2 md:w-[500px] md:h-[450px] w-[200px] h-[200px]' >
                     <div className='relative group'>
-                       <img className=' h-[250px] w-full w-full h-[200px]' src={project.image}></img>
-                       
+                       <img className=' h-[250px] w-full md:w-full md:h-[200px]' src={project.image}></img>           
                     </div>
                    
                    <div className='project-desc p-4'>
