@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+  scroll-behavior: smooth;
+}
+@keyframes appear{
+  from{
+    opacity: 0;
+    scale: 0.5
+  }
+  to{
+    opacity: 1;
+    scale: 1
+  }
+}
+.block{
+  animation: appear linear;
+  animation-timeline: view();
+  animation-range: entry 0;
+}
+
+header ul li{
+  @apply px-2;
+}
+
+header ul li:hover{
+  @apply underline decoration-yellow-500;
+}
+
+.mobile-nav{
+  @apply fixed top-10 left-0 bg-gray-500 w-full right-0;
+}
+
+.mobile-nav li{
+  @apply text-center w-full border-b-2 h-full
+}
+
+.project-desc{
+  @apply  text-white
+}
+
+.btn{
+  @apply bg-lime-950 px-5 py-2 border-yellow-500 hover:border-2 rounded
+}
+.proj-btn{
+  @apply bg-emerald-950
+}
+
+.skill-icon{ 
+  @apply border-gray-400 border-2 rounded p-1 m-2 text-gray-400  cursor-pointer flex gap-2
+}
+
+.hero-img img{
+  margin-right:40px;
+  height: 400px;
+  width:100%;
+}
+.aboutimg img{
+  height: 400px;
+}
