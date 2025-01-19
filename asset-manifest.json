@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.3ec59ccd.css",
+    "main.js": "/my-portfolio/static/js/main.6a028cad.js",
+    "static/media/busbooking.png": "/my-portfolio/static/media/busbooking.5ef22996040b5b0b8312.png",
+    "static/media/IMG_20231012_100630 (1).jpg": "/my-portfolio/static/media/IMG_20231012_100630 (1).c11875a0da75d41d25a3.jpg",
+    "static/media/suba.png": "/my-portfolio/static/media/suba.982cb9705bd57534af84.png",
+    "static/media/ATCHAYA -FRONTEND DEVELOPER.pdf": "/my-portfolio/static/media/ATCHAYA -FRONTEND DEVELOPER.0c10bc148cb4752ec75d.pdf",
+    "static/media/resume.jpg": "/my-portfolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/atchu-bg-remove.png": "/my-portfolio/static/media/atchu-bg-remove.ad3eae225e4a0d51a423.png",
+    "static/media/mini-ecom-home.png": "/my-portfolio/static/media/mini-ecom-home.04148b4c444243c437dd.png",
+    "static/media/96018_xampp_icon.png": "/my-portfolio/static/media/96018_xampp_icon.1f61f14bf3b7d37b6102.png",
+    "static/media/sql-server.png": "/my-portfolio/static/media/sql-server.a4ba4125aadc50241c26.png",
+    "static/media/physics.png": "/my-portfolio/static/media/physics.86c8d9eba03e29814d2a.png",
+    "static/media/social.png": "/my-portfolio/static/media/social.985a7327fc7347ebdba0.png",
+    "static/media/nodejs.png": "/my-portfolio/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/media.png": "/my-portfolio/static/media/media.38d5273743dd12244181.png",
+    "static/media/number game.png": "/my-portfolio/static/media/number game.2c4214d07836a5163392.png",
+    "static/media/python.png": "/my-portfolio/static/media/python.c2f539d50caa3745ce64.png",
+    "static/media/visual-studio-code-icon.png": "/my-portfolio/static/media/visual-studio-code-icon.227e9d01b4b2b7edcda9.png",
+    "static/media/github.png": "/my-portfolio/static/media/github.f11021803f68852df283.png",
+    "static/media/css-3.png": "/my-portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/js.png": "/my-portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.3ec59ccd.css.map": "/my-portfolio/static/css/main.3ec59ccd.css.map",
+    "main.6a028cad.js.map": "/my-portfolio/static/js/main.6a028cad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ec59ccd.css",
+    "static/js/main.6a028cad.js"
+  ]
+}
