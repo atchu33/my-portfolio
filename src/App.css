@@ -15,7 +15,7 @@ html{
     scale: 1
   }
 }
-.block{
+.div{
   animation: appear linear;
   animation-timeline: view();
   animation-range: entry 0;
@@ -53,9 +53,8 @@ header ul li:hover{
 }
 
 .hero-img img{
-  margin-right:40px;
   height: 400px;
-  width:100%;
+
 }
 .aboutimg img{
   height: 400px;

@@ -19,7 +19,7 @@ export default function Skills(){
            <h1 className='text-5xl font-hero-font border-b-2 text-yellow-500 border-yellow-500 mb-2 w-[140px] font-bold'>Skills</h1>
            <p className="text-white mb-5 font-hero2-font">Here are some of my skills on which i have learnt..</p>
            <div className="flex flex-col md:flex-row gap-5 text-center font-hero2-font">
-            <div className="border-purple-400 border-2 px-10 py-5 rounded md:w-1/2 hover:bg-lime-950 block">
+            <div className="border-purple-400 border-2 px-10 py-5 rounded md:w-1/2 hover:bg-lime-950 div">
                 <h1 className="text-3xl bold text-white mb-2">Frontend</h1>
                 <div className="flex flex-wrap justify-center">
                     <div className="skill-icon">
@@ -53,7 +53,7 @@ export default function Skills(){
                     </div>
                 </div>
             </div>
-            <div className="border-purple-400 border-2 px-10 py-10 rounded md:w-1/2 hover:bg-lime-950 block">
+            <div className="border-purple-400 border-2 px-10 py-10 rounded md:w-1/2 hover:bg-lime-950 div">
                 <h1 className="text-3xl bold text-white mb-2">Backend & Database</h1>
                 <div className="flex flex-wrap justify-center">
                 <div className="skill-icon">
@@ -74,7 +74,7 @@ export default function Skills(){
                     </div>
                 </div>
             </div>    
-            <div className="border-purple-400 border-2 px-10 py-10 rounded md:w-1/2 hover:bg-lime-950 block">
+            <div className="border-purple-400 border-2 px-10 py-10 rounded md:w-1/2 hover:bg-lime-950 div">
                 <h1 className="text-3xl bold text-white mb-2">Others</h1>
                 <div className="flex flex-wrap justify-center">
                 <div className="skill-icon">

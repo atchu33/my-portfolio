@@ -31,8 +31,8 @@ export default function Hero(){
              <a href="mailto:{config.social.mail}" className='pr-5 '><IoMdMail size={30} className='text-yellow-500 hover:text-black'/></a>
            </div>          
         </div>
-        <div className='md:w-1/3 block hero-img'>
-              <img src={HeroImg} className='rounded-full bg-fuchsia-200 border-fuchsia-400'  ></img>
+        <div className='md:w-1/3 div hero-img flex justify-center items-center'>
+              <img src={HeroImg} className='rounded bg-fuchsia-200 border-fuchsia-400 ms-10'  ></img>
         </div>
                
     </section>

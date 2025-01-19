@@ -55,20 +55,20 @@ export default function Projects(){
          <div className="flex flex-col items-center">
            <h1 className='text-5xl font-hero-font border-b-2 text-yellow-500 border-yellow-500 mb-4 w-[200px] font-bold'>Projects</h1>
            <p className="text-white mb-5 font-hero2-font">These are some of my projects.I have built these with the modern technologies.. CHECK them out!!!</p>
-           <div className="flex flex-col flex-wrap justify-center items-center md:flex-row text-center font-hero2-font gap-4 md:px-10 px-0">
+           <div className="flex flex-col items-stretch justify-center md:flex-row text-center font-hero2-font gap-4">
                 {config.projects.map((project)=>(
-                   <div className='block bg-lime-950 rounded border-2 md:w-[500px] md:h-[450px] w-[200px] h-[200px]' >
-                    <div className='relative group'>
-                       <img className=' h-[250px] w-full md:w-full md:h-[200px]' src={project.image}></img>           
-                    </div>
+                   <div className='div bg-lime-950 rounded border-2 md:w-1/2 h-' >
+                      <div className='group'>
+                       <img className='' src={project.image}></img>           
+                      </div>
                    
-                   <div className='project-desc p-4'>
+                       <div className='project-desc p-4'>
                        <h1 className='text-center text-2xl text-yellow-500'>{project.Heading}</h1>
                        <p className='text-white text-center'>{project.description}</p>
                        <div className='flex justify-center m-2'>
                           <a className='proj-btn btn' href={project.link}>View project</a>
                        </div>
-                   </div>
+                       </div>
                    </div>
                 ))}     
             </div> 
