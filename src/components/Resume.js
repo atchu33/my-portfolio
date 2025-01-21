@@ -3,8 +3,8 @@ import resume from '../assets/ATCHAYA -FRONTEND DEVELOPER.pdf'
 
 export default function Resume(){
     return <section className='flex flex-col justify-center bg-emerald-950 px-5 py-32 md:flex-row' id='resume' >
-         <div className='md:w-1/3 flex justify-center'>
-            <img className='w-[300px] block' src={ResumeImg} />
+         <div className='md:w-1/3 flex justify-center div'>
+            <img className='w-[300px]' src={ResumeImg} />
          </div>
          <div className='py-5 md:w-1/2 text-white flex justify-center'>
             <div className='flex flex-col justify-center'>

@@ -32,7 +32,7 @@ export default function Hero(){
            </div>          
         </div>
         <div className='md:w-1/3 div hero-img flex justify-center items-center'>
-              <img src={HeroImg} className='rounded bg-fuchsia-200 border-fuchsia-400 ms-10'  ></img>
+              <img src={HeroImg} className='rounded bg-fuchsia-200 border-fuchsia-400 md:ms-10'  ></img>
         </div>
                
     </section>
