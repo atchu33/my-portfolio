@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.3ea85655.css",
-    "main.js": "/my-portfolio/static/js/main.f9921010.js",
+    "main.css": "/my-portfolio/static/css/main.36c48d0d.css",
+    "main.js": "/my-portfolio/static/js/main.bb625b7c.js",
     "static/media/busbooking.png": "/my-portfolio/static/media/busbooking.5ef22996040b5b0b8312.png",
     "static/media/suba.png": "/my-portfolio/static/media/suba.982cb9705bd57534af84.png",
+    "static/media/about.png": "/my-portfolio/static/media/about.619ff0b319a55d0c05b1.png",
     "static/media/ATCHAYA -FRONTEND DEVELOPER.pdf": "/my-portfolio/static/media/ATCHAYA -FRONTEND DEVELOPER.0c10bc148cb4752ec75d.pdf",
     "static/media/resume.jpg": "/my-portfolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
     "static/media/atchu-bg-remove.png": "/my-portfolio/static/media/atchu-bg-remove.ad3eae225e4a0d51a423.png",
@@ -21,11 +22,11 @@
     "static/media/css-3.png": "/my-portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
     "static/media/js.png": "/my-portfolio/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/my-portfolio/index.html",
-    "main.3ea85655.css.map": "/my-portfolio/static/css/main.3ea85655.css.map",
-    "main.f9921010.js.map": "/my-portfolio/static/js/main.f9921010.js.map"
+    "main.36c48d0d.css.map": "/my-portfolio/static/css/main.36c48d0d.css.map",
+    "main.bb625b7c.js.map": "/my-portfolio/static/js/main.bb625b7c.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ea85655.css",
-    "static/js/main.f9921010.js"
+    "static/css/main.36c48d0d.css",
+    "static/js/main.bb625b7c.js"
   ]
 }
