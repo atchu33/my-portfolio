@@ -1,11 +1,11 @@
-import AboutImg from '../assets/atchu-bg-remove.png'
+import AboutImg from '../assets/about.png'
 
 export default function About(){
     return <section className='flex flex-col justify-center bg-emerald-950 px-5 py-5 md:flex-row' id='about'>
          <div className='md:w-1/3 flex justify-center items-center div aboutimg'>
-            <img src={AboutImg} className='rounded bg-slate-400' />
+            <img src={AboutImg} className='rounded' />
          </div>
-         <div className='py-5 ps-10 md:w-1/2 flex justify-center'>
+         <div className='py-5 md:ps-20 ps-10 md:w-1/2 flex justify-center'>
             <div className='flex flex-col justify-center'>
                <h1 className='text-5xl border-b-2 text-yellow-500 border-yellow-500 mb-5 w-[250px] font-bold  font-hero-font'>About Me</h1>
                <div className='me-10 text-white 1xl font-hero2-font'>
