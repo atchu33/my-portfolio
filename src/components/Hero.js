@@ -1,12 +1,12 @@
-import HeroImg from '../assets/atchu-bg-remove.png'
+import HeroImg from '../assets/atchu-bg-remove.png';
 import { IoMdMail } from "react-icons/io";
 import { FaGithub,FaLinkedin} from "react-icons/fa";
-import { useTypewriter,Cursor } from "react-simple-typewriter"
+import { useTypewriter,Cursor } from "react-simple-typewriter";
 
 export default function Hero(){
 
     const [text] = useTypewriter({
-       words:['Web developer','Frontend Developer'],
+       words:['Frontend Developer','Aspiring fullstack developer','Entry-level Python developer'],
        loop:{},
     }) 
 

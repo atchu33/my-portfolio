@@ -1,5 +1,5 @@
 import ResumeImg from '../assets/resume.jpg'
-import resume from '../assets/ATCHAYA -FRONTEND DEVELOPER.pdf'
+import resume from '../assets/ATCHAYA-fullstack-developer.pdf'
 
 export default function Resume(){
     return <section className='flex flex-col justify-center bg-emerald-950 px-5 py-32 md:flex-row' id='resume' >

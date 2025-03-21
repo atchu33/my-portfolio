@@ -8,7 +8,11 @@ import { Slide } from 'react-slideshow-image';
 
 export default function Projects(){
 
+
     const config={
+        social:{
+            github:'https://github.com/atchu33'
+          },
         projects:[
             {
                 image:project1,
@@ -71,7 +75,12 @@ export default function Projects(){
                        </div>
                    </div>
                 ))}     
-            </div> 
+            </div>
+            <div className='flex flex-col md:flex-row text-white md:m-10 m-2 gap-3'>
+               <p className='pt-2 text-yellow-500'>Check more projects at..</p>
+               <a className='btn text-center' href={config.social.github}>More projects</a>
+            </div>
+            
         </div>
     </section>
 }
