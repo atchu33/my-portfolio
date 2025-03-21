@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.36c48d0d.css",
-    "main.js": "/my-portfolio/static/js/main.bb625b7c.js",
+    "main.css": "/my-portfolio/static/css/main.4add88c9.css",
+    "main.js": "/my-portfolio/static/js/main.c634d513.js",
+    "static/media/IMG_20250214_131444.jpg": "/my-portfolio/static/media/IMG_20250214_131444.640242c5ef8e2071fde2.jpg",
+    "static/media/IMG_20250214_131534.jpg": "/my-portfolio/static/media/IMG_20250214_131534.7e7c148932a3665b1a4a.jpg",
     "static/media/busbooking.png": "/my-portfolio/static/media/busbooking.5ef22996040b5b0b8312.png",
     "static/media/suba.png": "/my-portfolio/static/media/suba.982cb9705bd57534af84.png",
     "static/media/about.png": "/my-portfolio/static/media/about.619ff0b319a55d0c05b1.png",
-    "static/media/ATCHAYA -FRONTEND DEVELOPER.pdf": "/my-portfolio/static/media/ATCHAYA -FRONTEND DEVELOPER.0c10bc148cb4752ec75d.pdf",
+    "static/media/f942be1a-74c0-4b1f-a3ac-58986936f2a3.pdf": "/my-portfolio/static/media/f942be1a-74c0-4b1f-a3ac-58986936f2a3.5280fc941c25b63f72eb.pdf",
     "static/media/resume.jpg": "/my-portfolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
     "static/media/atchu-bg-remove.png": "/my-portfolio/static/media/atchu-bg-remove.ad3eae225e4a0d51a423.png",
+    "static/media/ATCHAYA-fullstack-developer.pdf": "/my-portfolio/static/media/ATCHAYA-fullstack-developer.8b3b1ef5486eed62ff0f.pdf",
+    "static/media/udemy-certificate.pdf": "/my-portfolio/static/media/udemy-certificate.ae533843c777b83982f5.pdf",
+    "static/media/Certificate for K.ATCHAYA for _PYTHON PROGRAMMING_.pdf": "/my-portfolio/static/media/Certificate for K.ATCHAYA for _PYTHON PROGRAMMING_.c19ac443c853ca077583.pdf",
     "static/media/mini-ecom-home.png": "/my-portfolio/static/media/mini-ecom-home.04148b4c444243c437dd.png",
+    "static/media/Python Full Stack Bootcamp Certificate.pdf": "/my-portfolio/static/media/Python Full Stack Bootcamp Certificate.dcb5095031432a5fbb6e.pdf",
     "static/media/96018_xampp_icon.png": "/my-portfolio/static/media/96018_xampp_icon.1f61f14bf3b7d37b6102.png",
     "static/media/sql-server.png": "/my-portfolio/static/media/sql-server.a4ba4125aadc50241c26.png",
     "static/media/physics.png": "/my-portfolio/static/media/physics.86c8d9eba03e29814d2a.png",
@@ -22,11 +28,11 @@
     "static/media/css-3.png": "/my-portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
     "static/media/js.png": "/my-portfolio/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/my-portfolio/index.html",
-    "main.36c48d0d.css.map": "/my-portfolio/static/css/main.36c48d0d.css.map",
-    "main.bb625b7c.js.map": "/my-portfolio/static/js/main.bb625b7c.js.map"
+    "main.4add88c9.css.map": "/my-portfolio/static/css/main.4add88c9.css.map",
+    "main.c634d513.js.map": "/my-portfolio/static/js/main.c634d513.js.map"
   },
   "entrypoints": [
-    "static/css/main.36c48d0d.css",
-    "static/js/main.bb625b7c.js"
+    "static/css/main.4add88c9.css",
+    "static/js/main.c634d513.js"
   ]
 }
