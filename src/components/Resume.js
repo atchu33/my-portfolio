@@ -1,7 +1,8 @@
 import ResumeImg from '../assets/resume.jpg'
 import resume from '../assets/ATCHAYA-fullstack-developer.pdf'
 
-export default function Resume(){
+export default function Resume()
+{
     return <section className='flex flex-col justify-center bg-emerald-950 px-5 py-32 md:flex-row' id='resume' >
          <div className='md:w-1/3 flex justify-center div'>
             <img className='w-[300px]' src={ResumeImg} />
